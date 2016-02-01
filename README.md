@@ -6,8 +6,9 @@
 3. push, pull, fetch
 4. merge vs rebase
 5. reset hard/soft
-6. rebase interactive
-7. stash
+6. cherry-pick
+7. rebase interactive
+8. stash
 
 
 ## Github
